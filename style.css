@@ -1,0 +1,226 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.top-div {
+  background-image: url(./img/jumbotron-img\ 1.svg);
+  width: 1351px;
+  height: 800px;
+}
+
+.div-box {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: end;
+  padding: 39px;
+  gap: 32px;
+  width: 1180px;
+  height: 56px;
+}
+
+.div {
+  font-family: "Pacifico", "cursive";
+  font-weight: 400;
+  font-size: 32px;
+  margin-right: 600px;
+}
+
+.div-p {
+  font-family: "Readex Pro", sans-serif;
+}
+
+.box-box {
+  text-align: center;
+  margin-top: 202px;
+  color: white;
+}
+
+.input {
+  border: none;
+  width: 90px;
+  height: 38px;
+  border-radius: 8px;
+  background-color: #2B6F3E;
+  color: white;
+  margin-top: 24px;
+}
+
+.insta {
+  display: flex;
+  justify-content: center;
+  gap: 36px;
+  margin-top: 36px;
+}
+
+.dead {
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 400;
+}
+
+.box-img {
+  margin-top: 100px;
+  display: flex;
+  gap: 13px;
+  margin-left: 258px;
+}
+
+.text {
+  font-family: "Readex Pro", sans-serif;
+  margin-top: 48px;
+  margin-left: 50px;
+}
+
+.imgg {
+  margin-bottom: 50px;
+
+}
+
+.sohil {
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 500;
+}
+
+.img1 {
+  background-image: url(./img/unsplash_zR8ekoHsoPo.svg);
+  background-repeat: no-repeat;
+  width: 274px;
+  height: 346px;
+}
+
+.img2 {
+  background-image: url(./img/unsplash_c-UJQKs8fFU.svg);
+  background-repeat: no-repeat;
+  width: 316px;
+  height: 400px;
+}
+
+
+.img3 {
+  background-image: url(./img/unsplash_-o4PpHE9uG0.svg);
+  background-repeat: no-repeat;
+  width: 274px;
+  height: 346px;
+}
+
+.real {
+  margin-top: 280px;
+}
+
+.real2 {
+  margin-top: 322px;
+}
+
+.h1 {
+  font-family: "Readex Pro", sans-serif;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.div-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  color: white;
+}
+
+.bigdiv {
+  margin-top: 100px;
+}
+
+.fulldiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 33px;
+}
+
+.images1 {
+  background-image: url(./img/big1.svg);
+  background-repeat: no-repeat;
+  width: 295px;
+  height: 373px;
+  border-radius: 10px;
+}
+
+.images2 {
+  background-image: url(./img/big2.svg);
+  background-repeat: no-repeat;
+  width: 295px;
+  height: 373px;
+  border-radius: 10px;
+}
+
+.images3 {
+  background-image: url(./img/lalo-hernandez-Amo081zdJsI-unsplash.svg);
+  background-repeat: no-repeat;
+  width: 295px;
+  height: 373px;
+  border-radius: 10px;
+}
+
+.font {
+  font-family: "Readex Pro", sans-serif;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+  padding: 11px;
+  width: 256px;
+  height: 78px;
+  margin-top: 279px;
+  margin-left: 19px;
+}
+
+.footdiv {
+  background-color: #2B6F3E;
+  width: 1180px;
+  height: 334px;
+  border-radius: 16px;
+  color: white;
+  margin: 0 auto;
+}
+
+.foot-text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  gap: 34px;
+  padding: 85px;
+}
+
+.h0 {
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 600;
+}
+
+.foot-input {
+  background-color: #ffffff;
+  color: #2B6F3E;
+  border: none;
+  width: 146px;
+  height: 38px;
+  border-radius: 8px;
+}
+
+.dv{
+  margin-top: 100px;
+}
+
+.h12{
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 400;
+}
+
+.foot{
+  background-color: #2B6F3E;
+  color: white;
+  margin-top: 100px;
+  width: 1351px;
+  height: 84px;
+  text-align: center;
+  padding: 32px;
+}
